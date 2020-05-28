@@ -1,4 +1,7 @@
 # Pandas Homework
+* In this repo I use python and pandas to analyze data of a game called Heroes of Pymoli. I found out that 
+using jupyter notebooks help you keep your information organized and that way you can be more precise in 
+your analysis. 
 
 ### Player Count
 
